@@ -20,7 +20,7 @@
       rel="icon"
       type="image/png"
       sizes="16x16"
-      href="assets/images/favicon.png"
+      href="assets/images/vaccine.png"
     />
     <!-- Custom CSS -->
     <link href="dist/css/style.min.css" rel="stylesheet" />
@@ -59,7 +59,7 @@
           bg-dark
         "
       >
-        <div class="auth-box bg-dark border-top border-secondary">
+        <div class="auth-box bg-white border-top border-secondary">
           <div>
             <div class="text-center pt-3 pb-3">
               <span class="db"
